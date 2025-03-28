@@ -2,7 +2,7 @@ ESP32-Artnet-Wifi-Node-With-Pin-Settings
 ![Screenshot 2025-03-28 at 12 32 43 AM](https://github.com/user-attachments/assets/21fc8266-05ff-41f6-8917-a38597a9e8bb)
 
 
-See Original Repo for details and configuration. This repo simply adds a fix for updating the pin outputs and allows assignment of pins (with no validation atm, use with caution!)
+[See Original Repo](https://github.com/mdethmers/ESP32-Artnet-Node-receiver) (thank you so much for this, configmanager was a pain in my tail) for details and configuration. This repo simply adds a fix for updating the pin outputs and allows assignment of pins (with no validation atm, use with caution!)
 
 I'm new to C and microcontrollers. Not sure the best syntax to handle setting `initLed`, so open a PR if you find a fix.
 
